@@ -7,6 +7,6 @@ public class Boolaen {
 boolean x=true;
 System.out.println(x);
 	}
-
+//iioppppp
 }
 //sgfldl
