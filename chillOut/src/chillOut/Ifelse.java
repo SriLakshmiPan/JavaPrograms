@@ -12,6 +12,10 @@ if(x>y)
 }else
 {
 	System.out.println("y is big number");
+	
+	
+	
+	
 }
 		
 	}
