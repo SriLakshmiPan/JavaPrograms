@@ -5,6 +5,11 @@ package chillOut;
 		// TO print character 
 char c='A';
 System.out.println(c);
+		// TO print character 
+char cd='A';
+System.out.println(cd);
+char cdw='A';
+System.out.println(cdw);
 	}
 
 }
